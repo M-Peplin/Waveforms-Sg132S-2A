@@ -1,0 +1,75 @@
+﻿@{
+    ViewBag.Title = "Parameters";
+    Layout = "~/Views/Shared/_Layout.cshtml";    
+}
+
+<link rel="stylesheet" type="text/css" href="~/Content/bootstrap.css" />
+<html>
+<body>
+
+    <h2>Datasheet information - Sg132S-2A</h2>
+    <table id="params">
+        <tr>
+            <th>Size</th>
+            <th>Symbol</th>
+            <th>Unit</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>Rated power</td>
+            <td>Pn</td>
+            <td>kW</td>
+            <td>@Sg132S_2A.Models.Parameters.DefaultEngineParams.RatedPower</td>
+        </tr>
+        <tr>
+            <td>Rated voltage</td>
+            <td>U1n</td>
+            <td>V</td>
+            <td>@Sg132S_2A.Models.Parameters.DefaultEngineParams.RatedVoltage</td>
+        </tr>
+        <tr>
+            <td>Rated current</td>
+            <td>I1n</td>
+            <td>A</td>
+            <td>@Sg132S_2A.Models.Parameters.DefaultEngineParams.RatedCurrent</td>
+        </tr>
+        <tr>
+            <td>Rated speed</td>
+            <td>nn</td>
+            <td>rpm</td>
+            <td>@Sg132S_2A.Models.Parameters.DefaultEngineParams.RatedSpeed</td>
+        </tr>
+        <tr>
+            <td>Power factor</td>
+            <td>cosφn</td>
+            <td>-</td>
+            <td>@Sg132S_2A.Models.Parameters.DefaultEngineParams.PowerFactor</td>
+        </tr>
+        <tr>
+            <td>Frequency</td>
+            <td>f</td>
+            <td>Hz</td>
+            <td>@Sg132S_2A.Models.Parameters.DefaultEngineParams.Frequency</td>
+        </tr>
+        <tr>
+            <td>International Protection Rating</td>
+            <td>IP</td>
+            <td>-</td>
+            <td>@Sg132S_2A.Models.Parameters.DefaultEngineParams.IPR</td>
+        </tr>
+        <tr>
+            <td>Weight</td>
+            <td>m</td>
+            <td>kg</td>
+            <td>53</td>
+        </tr>
+    </table>
+    <br />
+    <h2 style="font-size:200%;"><center>Technical drawnings of Sg132S-2A motor</center></h2>
+    <br />
+    <img src="~/Images/technicalDraw.jpg" alt="Technical drawning">
+</body>
+</html>
+
+
+

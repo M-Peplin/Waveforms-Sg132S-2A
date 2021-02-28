@@ -1,0 +1,160 @@
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Sg132S-2A.dll.config
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Sg132S-2A.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Sg132S-2A.pdb
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\csc.exe
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\csc.exe.config
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\csc.rsp
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\csi.exe
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\csi.exe.config
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\csi.rsp
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.Managed.Core.targets
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.AppContext.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Collections.Immutable.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Console.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.Compression.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.FileSystem.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.Pipes.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Reflection.Metadata.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.AccessControl.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Claims.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Principal.Windows.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.ValueTuple.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Xml.XmlDocument.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Xml.XPath.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\vbc.exe
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\vbc.exe.config
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\vbc.rsp
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\VBCSCompiler.exe
+G:\C#\Sg132S-2A\Sg132S-2A\bin\roslyn\VBCSCompiler.exe.config
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Antlr3.Runtime.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Microsoft.Web.Infrastructure.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Newtonsoft.Json.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Diagnostics.DiagnosticSource.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.Helpers.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.Mvc.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.Optimization.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.Razor.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.Deployment.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.Razor.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\WebGrease.dll
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.Helpers.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.Mvc.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.Optimization.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.Razor.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.Deployment.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.Razor.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Newtonsoft.Json.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Antlr3.Runtime.pdb
+G:\C#\Sg132S-2A\Sg132S-2A\bin\System.Diagnostics.DiagnosticSource.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\C#\Sg132S-2A\Sg132S-2A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C#\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.csproj.CoreCompileInputs.cache
+G:\C#\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.csproj.CopyComplete
+G:\C#\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.dll
+G:\C#\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.pdb
+G:\C#\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.csprojAssemblyReference.cache
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Sg132S-2A.dll.config
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Sg132S-2A.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Sg132S-2A.pdb
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\csc.exe
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\csc.exe.config
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\csc.rsp
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\csi.exe
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\csi.exe.config
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\csi.rsp
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.AppContext.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Collections.Immutable.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Console.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.Compression.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.FileSystem.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.IO.Pipes.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Reflection.Metadata.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.AccessControl.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Claims.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.ValueTuple.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Xml.XPath.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\vbc.exe
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\vbc.exe.config
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\vbc.rsp
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\VBCSCompiler.exe
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\roslyn\VBCSCompiler.exe.config
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Antlr3.Runtime.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Microsoft.Web.Infrastructure.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Newtonsoft.Json.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.Helpers.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.Mvc.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.Optimization.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.Razor.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.Deployment.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.Razor.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\WebGrease.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.Helpers.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.Mvc.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.Optimization.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.Razor.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.Deployment.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Web.WebPages.Razor.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Newtonsoft.Json.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Antlr3.Runtime.pdb
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.csprojAssemblyReference.cache
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.csproj.CoreCompileInputs.cache
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.csproj.CopyComplete
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.dll
+G:\Magisterka PG 3\magisterka nieudany entity backup\bezBazy\Sg132S-2A\Sg132S-2A\obj\Debug\Sg132S-2A.pdb

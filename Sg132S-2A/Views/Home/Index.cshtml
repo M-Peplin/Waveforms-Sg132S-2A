@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Circut simulator - Sg132S-2A</h1>
+    <br />
+    <p class="lead">
+        This web browser application is designed to simulate the behavior of induction drive circut.
+        The simulation object is Sg132S-2A induction motor with pulse width modulation controlled inverter.
+    </p>
+    <br /><center><img src="~/Images/motor.jpg" alt="Sg132S-2A motor" width="250" height="200" style="border-radius: 10%; margin-bottom: 7px;"></center>
+    <p><a href="/Drive/Index" class="btn btn-primary btn-lg">Waveforms &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-7">
+        <h2>About</h2>
+        <p>
+            Brief guidebook and information about the purpose of the application
+        </p>
+        <p><a class="btn btn-default" href="/Home/About">Go &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Datasheet</h2>
+        <p>Basic induction motor parameters and technical drawnings</p>
+        <p><a class="btn btn-default" href="/Home/Parameters">Go &raquo;</a></p>
+    </div>    
+</div>

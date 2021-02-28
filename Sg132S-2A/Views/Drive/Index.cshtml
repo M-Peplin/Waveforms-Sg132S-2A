@@ -1,0 +1,96 @@
+﻿@model Sg132S_2A.Models.Parameters
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm("Save", "Drive"))
+{
+    <header class="masthead">
+        <center><h1 style="background-color:white; border-radius:10px; margin-left:50px; margin-right:50px; font-size:230%">
+            Enter parameters and click "Show waveforms" button to see the chart
+        </h1></center>
+        <div class="row">            
+            <div class="col-sm-6">
+                <div>
+                    <h4 style="color: #4CAF50"><center><p style="font-size:220%; background-color:white; margin-left:12px; border-radius:10px;">Power supply parameters</p></center></h4>                    
+                    <center>
+                        <table class="table table-bordered" style="margin-left:12px">
+                            <tr>
+                                <td><font color="white">Uuv rms [V]:</font></td>
+                                <td>@Html.EditorFor(model => model.Uu1)</td>
+                            </tr>
+                            <tr>
+                                <td><font color="white">Uvw rms [V]:</font></td>
+                                <td>@Html.EditorFor(model => model.Uw1)</td>
+                            </tr>
+                            <tr>
+                                <td><font color="white">Uwu rms [V]:</font></td>
+                                <td> @Html.EditorFor(model => model.Uv1)</td>
+                            </tr>
+                            <tr>
+                                <td><font color="white">Inverter initial frequency [Hz]:</font></td>
+                                <td>@Html.EditorFor(model => model.F0)</td>
+                            </tr>
+                            <tr>
+                                <td><font color="white">Inverter final frequency [Hz]:</font></td>
+                                <td>@Html.EditorFor(model => model.Fk)</td>
+                            </tr>
+                            <tr>
+                                <td><font color="white">Phase shift [deg]:</font></td>
+                                <td>@Html.EditorFor(model => model.Phase)</td>
+                            </tr>
+
+                        </table>
+                    </center>
+                </div>
+
+                </div>
+
+                <div class="col-sm-6">
+                    <div>
+                        <h4 style="color:#4CAF50"><center><p style="font-size:220%; background-color:white; margin-right:12px; border-radius:10px;">Time and external parameters</p></center></h4>                        
+                        <center>
+                            <table class="table table-bordered" style="margin-left:-15px;">
+
+                                <tr>
+                                    <td><font color="white">Moment of inertia [kg*m*m]</font></td>
+                                    <td>@Html.EditorFor(model => model.Jext)</td>
+                                </tr>
+                                <tr>
+                                    <td><font color="white">Damping coefficient [N*m*s/rad]:</font></td>
+                                    <td>@Html.EditorFor(model => model.Dext)</td>
+                                <tr>
+                                    <td><font color="white">Soft start time [s]:</font></td>
+                                    <td>@Html.EditorFor(model => model.Tsoftstart)</td>
+                                </tr>
+                                <tr>
+                                    <td><font color="white">Simulation time [s]:</font></td>
+                                    <td>@Html.EditorFor(model => model.Ts)</td>
+                                </tr>
+                                <tr>
+                                    <td><font color="white">Scalar control (V/f) slope ratio:</font></td>
+                                    <td>@Html.EditorFor(model => model.SlopeRatio)</td>
+                                </tr>
+
+                            </table>
+                        </center>
+                    </div>
+                </div>
+
+
+            </div>
+            <div>
+                <br /><br /><br /><br />
+                <center><input type="submit" value="Show waveforms" class="buttonWaveform buttonWaveform1" style="margin-left:auto; margin-right:auto;" /></center>
+            </div>
+
+        </header>
+
+    }
+
+        <div>
+            <img src=@Url.Action("DrawWaveforms", Model) />
+        </div>
